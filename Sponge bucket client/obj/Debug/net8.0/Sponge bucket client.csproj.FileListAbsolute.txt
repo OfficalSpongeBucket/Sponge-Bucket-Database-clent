@@ -1,0 +1,14 @@
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\bin\Debug\net8.0\Sponge bucket client.exe
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\bin\Debug\net8.0\Sponge bucket client.deps.json
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\bin\Debug\net8.0\Sponge bucket client.runtimeconfig.json
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\bin\Debug\net8.0\Sponge bucket client.dll
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\bin\Debug\net8.0\Sponge bucket client.pdb
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.AssemblyInfoInputs.cache
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.AssemblyInfo.cs
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.csproj.CoreCompileInputs.cache
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.dll
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\refint\Sponge bucket client.dll
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.pdb
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\Sponge bucket client.genruntimeconfig.cache
+C:\Users\waaiz\source\repos\Sponge bucket client\Sponge bucket client\obj\Debug\net8.0\ref\Sponge bucket client.dll
