@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sponge bucket client", "Sponge bucket client\Sponge bucket client.csproj", "{83C2A7DE-AB1B-402B-941C-CD79D7453B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C2A7DE-AB1B-402B-941C-CD79D7453B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C2A7DE-AB1B-402B-941C-CD79D7453B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C2A7DE-AB1B-402B-941C-CD79D7453B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C2A7DE-AB1B-402B-941C-CD79D7453B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5D077B-C2B5-41F5-B71A-D861E5CB888C}
+	EndGlobalSection
+EndGlobal
