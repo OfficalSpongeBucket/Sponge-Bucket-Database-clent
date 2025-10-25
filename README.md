@@ -13,5 +13,7 @@ A minimal C# CLI server with RAM simulation, node isolation, and command handlin
 2. Run the database file and watch it connect to `localhost:9090`
 3. Type commands and watch the magic
 
+I wish to take this to the next step by using a aws instance as my server,`t4g.small` to be exact 
+
 ## Coming Soon
 - `store`, `query`, `clean`, `rename`, `echo`
