@@ -19,6 +19,9 @@ I wish to take this to the next step by using a aws instance as my server,`t4g.s
 ## Coming Soon
 - `store`, `query`, `clean`, `rename`, `echo`
 
-  ##links
+##links
 - https://sites.google.com/view/sponge-bucket/home
-- JOIN THE OFFICIAL SPONGE BUCKET DISCORD SERVER FOR MORE INFO 
+- JOIN THE OFFICIAL SPONGE BUCKET DISCORD SERVER FOR MORE INFO
+
+##Notes
+The `C#` file's specifications are based off of the `Basic` plan (stated on the website)
