@@ -1,7 +1,7 @@
 
 # Sponge Bucket cloud storage
 
-A minimal C# CLI server with RAM simulation, node isolation, and command handling.
+A minimal C# CLI server client.
 
 ## Features
 - Node ID assignment (`node_01`, `node_02`, ...)
@@ -19,6 +19,6 @@ I wish to take this to the next step by using a aws instance as my server,`t4g.s
 ## Coming Soon
 - `store`, `query`, `clean`, `rename`, `echo`
 
-- ##links
+  ##links
 - https://sites.google.com/view/sponge-bucket/home
 - JOIN THE OFFICIAL SPONGE BUCKET DISCORD SERVER FOR MORE INFO 
