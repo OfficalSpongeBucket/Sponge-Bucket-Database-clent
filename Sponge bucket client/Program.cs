@@ -2,7 +2,7 @@
 using System.Net.Sockets;
 using System.Text;
 
-class WaaizDBClient
+class server client
 {
     static void Main()
     {
@@ -13,7 +13,7 @@ class WaaizDBClient
         TcpClient client = new TcpClient(ip, 9090);
         NetworkStream stream = client.GetStream();
 
-        byte[] buffer = new byte[1024];
+        byte[] buffer = new byte[50];
         int bytes = stream.Read(buffer, 0, buffer.Length);
         Console.Write(Encoding.ASCII.GetString(buffer, 0, bytes));
 
@@ -34,3 +34,4 @@ class WaaizDBClient
         client.Close();
     }
 }
+
