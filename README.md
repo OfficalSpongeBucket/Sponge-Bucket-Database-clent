@@ -5,8 +5,8 @@ A minimal C# CLI server client.
 
 ## Features
 - Node ID assignment (`node_01`, `node_02`, ...)
-- RAM tracking (512-2GB per node)
-- Commands: `touch`, `del`, `ls`, `mem`, `edit`, `exit`
+- credits: (this one has 50 credits)
+- Commands: `touch`(adds a file), `del`(deletes a file), `ls`, `mem`(states how many credits you have left), `edit`, `exit`
 
 ## How to Run
 1. Start the .cs file
