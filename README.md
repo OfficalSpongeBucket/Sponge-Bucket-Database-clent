@@ -10,10 +10,15 @@ A minimal C# CLI server with RAM simulation, node isolation, and command handlin
 
 ## How to Run
 1. Start the .cs file
-2. Run the database file and watch it connect to `localhost:9090`
-3. Type commands and watch the magic
+2. connect to the ip address stated
+## Debuging
+if the server client is refusing to connect, that might be because the server is down/off
 
 I wish to take this to the next step by using a aws instance as my server,`t4g.small` or the `m6id.large` to be exact 
 
 ## Coming Soon
 - `store`, `query`, `clean`, `rename`, `echo`
+
+- ##links
+- https://sites.google.com/view/sponge-bucket/home
+- JOIN THE OFFICIAL SPONGE BUCKET DISCORD SERVER FOR MORE INFO 
